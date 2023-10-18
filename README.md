@@ -2,7 +2,7 @@
 
 
 
-### Olá! Eu sou o DusKin 👋
+### Olá! Eu sou o <DusKin/> 👋
 [![Linkedin Badge](https://img.shields.io/badge/-duskin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duskin-dev/)](https://www.linkedin.com/in/duskin-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-dduskindev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dduskindev@gmail.com)](mailto:dduskindev@gmail.com) 
 
