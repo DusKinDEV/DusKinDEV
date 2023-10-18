@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-dduskindev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dduskindev@gmail.com)](mailto:dduskindev@gmail.com) 
 
 - 🎯 Portfolio website: [Agregador de Links](https://duskindev.github.io/Dev-Links)
-- ⚡ Curiosidade: A primeira regra da programação: Se funcionar, não toque 🤓
+- ⚡ Curiosidade: A primeira regra da programação: </br> Se funcionar, não toque 🤓
 
 🚀💻 **Estudando:**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
