@@ -13,8 +13,8 @@
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
 - Frontend Development  ✍️ </br>
 
-    <a href="https://github.com/DusKinDEV/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src=["https://github-readme-stats.vercel.app/api?username=DusKinDEV&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true"](https://github-readme-stats.vercel.app/api?username=DusKinDEV&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true) />
+    <a href="https://github.com/DusKinDeV/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=DusKinDeV&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
 #️⃣🛠 **Habilidades:**
