@@ -7,6 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-dduskindev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dduskindev@gmail.com)](mailto:dduskindev@gmail.com) 
 
 - 👉 1° Projeto: [Cartão de Visita Digital](https://duskindev.github.io/Dev-Links) </br>
+- 👉 2° Projeto: [Portifólio](https://welbergomes.vercel.app) </br>
 - ⚡ Curiosidade: Sou Analista de Dados de Logística 🚛
 
 🚀💻 **Estudando:**
