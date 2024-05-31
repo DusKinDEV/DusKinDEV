@@ -11,7 +11,7 @@
 - ⚡ Curiosidade: Sou Analista de Dados de Logística 🚛
 
 🚀💻 **Estudando:**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
+- HTML5, CSS3 e JavaScript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
 - Frontend Development  ✍️ </br>
 
     <a href="https://github.com/DusKinDeV/github-readme-stats" title="Go to Source">
