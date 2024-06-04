@@ -8,6 +8,7 @@
 
 - 👉 1° Projeto: [Cartão de Visita Digital](https://duskindev.github.io/Dev-Links) </br>
 - 👉 2° Projeto: [Portifólio](https://welbergomes.vercel.app) </br>
+- 👉 2° Projeto: [Workshop Page](https://workshop-ebon.vercel.app) </br>
 - ⚡ Curiosidade: Sou Analista de Dados de Logística 🚛
 
 🚀💻 **Estudando:**
