@@ -9,7 +9,7 @@
 - 👉 1° Projeto: [Cartão de Visita Digital](https://duskindev.github.io/Dev-Links) </br>
 - 👉 2° Projeto: [Portifólio](https://welbergomes.vercel.app) </br>
 - 👉 3° Projeto: [Workshop Page](https://workshop-ebon.vercel.app) </br>
-- ⚡ Curiosidade: Sou Analista de Dados de Logística 🚛
+- ⚡ Curiosidade: Sou apainado em Logística 🚛
 
 🚀💻 **Estudando:**
 - HTML5, CSS3 e JavaScript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
